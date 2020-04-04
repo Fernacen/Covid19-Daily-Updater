@@ -6,7 +6,7 @@ Messaging and data rates may apply. See your phone contract for details.
 
 ## Installation
 
-pip install -r path/to/requrements.txt
+pip3 install -r path/to/requrements.txt
 
 python3 path/to/controller.py
 
