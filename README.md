@@ -15,7 +15,8 @@ python3 path/to/controller.py
 This program is still in development and unstable. Refer to the requirements, definitions, and setup documents.
 
 YOU MUST HAVE AN AWS ACCOUNT.
-STEPS:
+
+How to obtain an AWS account:
 1) Go to https://aws.amazon.com/
 2) Sign up for an account (it's free)
 3) In the top right corner in the AWS Managment Console, nex to your name, ensure one of the three is selected:
