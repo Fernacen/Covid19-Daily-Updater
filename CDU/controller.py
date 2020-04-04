@@ -155,16 +155,14 @@ class verbose(enum.Enum):
     firstuse = \
         ('Thank you for using the Covid-19 Daily Updater\n'
          'Ver0.2.0\n'
-         'Information about this program can be found at: https://github.com/Fernacen/Covid19-Daily-Update/\n'
-         'If you encountered an error, please report it to the developer via: https://tizeka.io/report\n\n'
-         'PLEASE READ THE STARTUP GUIDE BEFORE CONTINUING.\n\n'
+         'Information about this program can be found at: https://github.com/Fernacen/Covid19-Daily-Update/\n\n'
+         'PLEASE READ THE README.md ON GITHUB BEFORE CONTINUING.\n\n'
 
          'Let\'s get started. Press Enter to set up the data vault...')
     help = \
         ('----HELP----\n\n'
          'Covid-19 Daily Updater\t\tVer0.2.0\n'
-         'Information about this program is on GitHub at: https://github.com/Fernacen/Covid19-Daily-Update/\n'
-         'If you encountered an error, please report it to the developer via: https://tizeka.io/report\n\n'
+         'Information about this program is on GitHub at: https://github.com/Fernacen/Covid19-Daily-Update/\n\n'
          'config:\n'
          '\tAllows you to enter phone numbers, remove phone numbers, enter host email information,\n'
          '\tschedule update times, select update format, select if you want to be notified about a\n'
