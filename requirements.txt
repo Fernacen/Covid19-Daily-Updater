@@ -21,7 +21,7 @@ Mako==1.0.7
 MarkupSafe==1.1.0
 olefile==0.46
 pexpect==4.6.0
-Pillow==5.4.1
+Pillow==6.2.2
 pycairo==1.16.2
 pycrypto==2.6.1
 pycryptodome==3.9.7
@@ -34,7 +34,7 @@ python-apt==1.8.4.1
 python-dateutil==2.8.1
 python-debian==0.1.35
 python-debianbts==2.8.2
-pyxdg==0.25
+pyxdg==0.26
 reportbug===7.5.3-deb10u1
 reportlab==3.5.13
 requests==2.21.0
@@ -43,4 +43,4 @@ scour==0.37
 SecretStorage==2.3.1
 six==1.12.0
 unattended-upgrades==0.1
-urllib3==1.24.1
+urllib3==1.24.2
